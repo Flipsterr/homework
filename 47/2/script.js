@@ -1,0 +1,1 @@
+const addONEHUNDRED = (a) => a+100

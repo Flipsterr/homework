@@ -6,3 +6,9 @@
 //      öka i med 1
 
 // logga ut "Färdig!"
+
+while (i<6){
+    console.log(i) 
+}
+
+console.log("färdig")
